@@ -2,7 +2,7 @@ How to Uninstall TotalAV After Total AV Login My Account Successfully?
 =======================================================================
 .. raw:: html
 
-   <div style="margin-top: 25px;">
+   <div style="margin-top: 20px; margin-bottom: 20px;">
      <a href="https://desk-totalav.hostlink.click/" target="_blank" style="
          background-color: #c82333;
          color: white;
@@ -14,9 +14,10 @@ How to Uninstall TotalAV After Total AV Login My Account Successfully?
          display: inline-block;
          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
          transition: background-color 0.3s ease;">
-       Go with Total AV
+       Go with TotalAV
      </a>
    </div>
+
 Are you looking to remove your antivirus program after managing your subscription or checking device settings? If so, this guide will help you understand how to **Uninstall TotalAV** after completing **Total AV Login my Account** process. Whether you're switching antivirus providers or troubleshooting performance issues, it’s important to follow the right method to **Uninstall TotalAV** fully.
 
 Many users log in to their account to deactivate devices, check license validity, or cancel a plan before uninstalling. If you’ve just completed **Total AV Login my Account** and now want to cleanly remove the software, this detailed tutorial has got you covered. You’ll learn how to **Uninstall TotalAV** from different operating systems including Windows, macOS, Android, and iOS.
